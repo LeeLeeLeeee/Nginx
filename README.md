@@ -3,6 +3,7 @@
 #### Nginx 파트
 
 [1. Nginx 기본 구성](./Part2)  
+[2. HTTP 구성](./Part3)  
 
 #### Nginx 개요
 
